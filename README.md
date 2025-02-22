@@ -75,5 +75,5 @@ Este projeto está sob a licença MIT. Sinta-se livre para modificar e usar conf
 
 ---
 
-Desenvolvido com ❤️ e Python 🐍.
+Desenvolvido em Python 🐍.
 
